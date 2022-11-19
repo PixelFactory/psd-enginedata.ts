@@ -1,6 +1,6 @@
 {
   "name": "psd-enginedata.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to parse enginedata",
   "keywords": [
     "psd",
