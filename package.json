@@ -7,7 +7,7 @@
     "enginedata"
   ],
   "main": "dist/main.js",
-  "types": "types/Index.d.ts",
+  "types": "types/Enginedata.d.ts",
   "module": "dist/main.js",
   "files": [
     "dist",
