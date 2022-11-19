@@ -15,6 +15,9 @@ const config: Configuration = {
   },
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx'],
+    fallback: {
+      buffer: false,
+    },
   },
   module: {
     rules: [
